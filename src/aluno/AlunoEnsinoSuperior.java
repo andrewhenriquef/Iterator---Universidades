@@ -6,7 +6,7 @@ public class AlunoEnsinoSuperior {
 	private int anoInicio;
 	private boolean regular;
 	
-	public AlunoEnsinoSuperior(String nome,String curso,int anoInicio, boolean relugar){
+	public AlunoEnsinoSuperior(String nome,String curso,int anoInicio, boolean regular){
 		this.nome = nome;
 		this.curso = curso;
 		this.anoInicio = anoInicio;
